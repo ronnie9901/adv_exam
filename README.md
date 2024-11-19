@@ -1,16 +1,10 @@
 # adv_exam
 
-A new Flutter project.
+Description
+A Flutter-based expense tracking app that leverages SQL for local data management and Firebase for cloud storage. It supports full CRUD operations in SQL to add, edit, delete, and retrieve expenses, ensuring smooth offline functionality. Firebase integration enables syncing data across devices, offering a seamless blend of offline and online tracking.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+https://github.com/user-attachments/assets/b49640a2-c06d-48b6-954d-02025cb8b6af
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
